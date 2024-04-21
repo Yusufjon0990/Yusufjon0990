@@ -1,3 +1,4 @@
+print("Hello world")
 from decimal import Decimal, getcontext , Context
 
 print(Decimal(0.2) + Decimal(0.3) == Decimal(0.5))
